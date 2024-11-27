@@ -4,14 +4,13 @@ Este projeto é uma API RESTful desenvolvida como parte de uma disciplina acadê
 
 
 
-Funcionalidades
+
+
+  Funcionalidades :computer:
 
 Cliente: Cadastro, consulta, atualização e exclusão de clientes.
-
 Funcionário: Cadastro, consulta, atualização e exclusão de funcionários.
-
 Veículo: Cadastro, consulta e exclusão de veículos.
-
 Tecnologias Utilizadas:
 
 Spring Boot: Framework para desenvolvimento de APIs REST.
@@ -22,10 +21,11 @@ JPA (Java Persistence API): Para mapeamento e manipulação das entidades no ban
 
 
 
-A API expõe os seguintes endpoints:
+:notebook: A API expõe os seguintes endpoints :notebook:
 
 
-Cliente:
+  Cliente :computer:
+    
 
 GET /clientes - Retorna todos os clientes cadastrados.
 
@@ -39,7 +39,7 @@ DELETE /clientes/{id} - Exclui um cliente pelo ID.
 
 
 
-Funcionario:
+  Funcionario  :computer:
 
 GET /funcionarios - Retorna todos os funcionários cadastrados.
 
@@ -52,7 +52,7 @@ PUT /funcionarios/{id} - Atualiza as informações de um funcionário.
 DELETE /funcionarios/{id} - Exclui um funcionário pelo ID.
 
 
-Veículo:
+  Veículo  :computer:
 GET /veiculos - Retorna todos os veículos cadastrados.
 
 POST /veiculos - Cria um novo veículo.
