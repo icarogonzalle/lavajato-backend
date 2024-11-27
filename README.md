@@ -1,11 +1,11 @@
 # Projeto Lavajato Acadêmico
 
-Este é um projeto acadêmico desenvolvido para a disciplina de **Backend** utilizando **Spring Boot**. O sistema é uma API REST para o gerenciamento de um **Lava Jato**, com operações de CRUD (Create, Read, Update, Delete) para entidades como **Cliente**, **Funcionário**, **Veículo** e **Financeiro**.
+Este é um projeto acadêmico desenvolvido para a disciplina de **Backend** utilizando **Spring Boot**. O sistema é uma API REST para o gerenciamento de um **Lava Jato**, com operações de CRUD (Create, Read, Update, Delete).
 
 ## Tecnologias Utilizadas
 
 - **Spring Boot**: Framework Java para construção de aplicações backend.
-- **MySQK Database**: Banco de dados em memória utilizado para armazenamento dos dados.
+- **MySQL Database**: Banco de dados em memória utilizado para armazenamento dos dados.
 - **JPA (Java Persistence API)**: Utilizado para a interação com o banco de dados.
 - **Spring Web**: Para criar os endpoints da API RESTful.
 - **Spring Data JPA**: Facilita a implementação de repositórios para interagir com o banco de dados.
@@ -29,7 +29,7 @@ Este é um projeto acadêmico desenvolvido para a disciplina de **Backend** util
 
 ### Requisitos:
 - **Java 11 ou superior**
-- **Maven** (opcional, se você preferir rodar diretamente via linha de comando)
+- **Maven**
 
 
 ## Endpoints da API
