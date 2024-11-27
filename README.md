@@ -2,7 +2,7 @@ Lava Jato API - Projeto Acadêmico :computer: :notebook:
 
 Este projeto é uma API RESTful desenvolvida como parte de uma disciplina acadêmica de Backend. A aplicação é voltada para a gestão de um Lava Jato e permite o gerenciamento de clientes, funcionários, veículos e informações financeiras.
 
-=====================================================================================================================================================================
+
 
 Funcionalidades
 Cliente: Cadastro, consulta, atualização e exclusão de clientes.
@@ -15,7 +15,7 @@ MySQL: Banco de dados.
 JPA (Java Persistence API): Para mapeamento e manipulação das entidades no banco de dados.
 Endpoints
 
-=====================================================================================================================================================================
+
 
 A API expõe os seguintes endpoints:
 
