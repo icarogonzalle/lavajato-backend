@@ -25,7 +25,6 @@ Este é um projeto acadêmico desenvolvido para a disciplina de **Backend** util
 ### 4. **Controle Financeiro**
 - Registro de movimentações financeiras, incluindo entradas e saídas, permitindo o controle de receitas e despesas.
 
-## Como Rodar o Projeto
 
 ### Requisitos:
 - **Java 11 ou superior**
